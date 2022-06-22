@@ -30,7 +30,7 @@ Install macports from https://www.macports.org
 ### Ubuntu
 
 `sudo apt-get install libsfml-dev libglm-dev`
-
+`export MESA_GL_VERSION_OVERRIDE=3.3`
 ## Compile Source and Runnimg
 
 ### Linux
